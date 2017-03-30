@@ -35,7 +35,7 @@ var name:coolStuff = new coolStuff(things, otherThings)
 ```
 This just means "From here, name means this coolStuff, which is created using arguments 'things' and 'things'". Arguments are just what you tell to a special bit of code - also called a function - called a "constructor": it created an object of the type coolStuff based on those values. I'll try to be as clear as possible about what arguments to put inside a function.
 
-## Reminder for both noncode people and noncode people
+## Reminder for both code people and noncode people
 Remind to put semicolons at the end of each instruction. This is more for code people, actually.
 
 ## How to use
