@@ -41,7 +41,7 @@ Remind to put semicolons at the end of each instruction. This is more for code p
 ## How to use
 Just make your script. It's easy.
 
-## ItemStacks ==
+## ItemStacks
 The first thing to do is to create your ItemStacks. That is, the items you're gonna use. Just do it like this:
 ```
 var stack:tweaker.ItemStack = new tweaker.ItemStack(itemID, number, metadata (optional))
